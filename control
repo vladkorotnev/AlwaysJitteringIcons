@@ -1,0 +1,9 @@
+Package: com.vladkorotnev.iconjitter
+Name: Always Jittering Icons
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Add some liveness to your icons
+Maintainer: Vladislav Korotnev
+Author: Vladislav Korotnev
+Section: Tweaks
